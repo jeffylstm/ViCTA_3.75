@@ -14,6 +14,8 @@ VCT conceived by Philip McCall, Behaviour Group, LSTM, Liverpool UK.
 
 ViCTA software conceived and developed by Jeff Jones, Behaviour Group, LSTM, Liverpool UK.
 
+Sincere acknowledgements to members of the Vector Biology behaviour group (past and present), Lite members of staff, Researchers in CTID, and collaborators in Malawi, Benin, Burkina Faso, Tanzania and Ghana who contributed to the generation of VCT data and its analysis.
+
 For reference to the paper publication, Please refer to: 
 
 	https://link.springer.com/article/10.1186/s13071-023-06029-z
