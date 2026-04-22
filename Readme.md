@@ -21,6 +21,12 @@ For reference to the paper publication, Please refer to:
 	https://link.springer.com/article/10.1186/s13071-023-06029-z
 
 
+ViCTA Software:
+
+The software can be found in the 'releases' section to the right hand side of the github page.
+The software runs on modern Windows based systems (windows 10 or 11) and can be downloaded as a zip file. Once downloaded the zip file should be extracted and the user should navigate to the 'Victa_3.75' folder. Once there, the user should double-click the file 'runBundled.bat' which will load the software.
+
+For a guide on using the ViCTA software please see the folder 'guides to victa and handbrake' which includes powerpoint tutorial files and video links to youtube recordings.
 
 
 Academic Zero-Rights License (AZRL) 1.0
