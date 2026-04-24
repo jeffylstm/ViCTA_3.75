@@ -2,7 +2,7 @@ Readme file for: ViCTA Excel Data Entry Template
 
 This is a blank microsoft excel data template to allow the user to paste ViCTA results directly from the ViCTA software using the clipboard.
 
-The user should use the excel paste data import wizard and specify commas only as the separating value.
+The user should use the excel paste data import wizard and specify commas only as the separating value. Please see the video tutorials in the 'guides to victa and handbrake' for how to paste victa results into the data entry template.
 
 An example of a fully completed data entry template example can be found in the file: 
         'jessie fang fumoz victa data entry template.xlsx'
