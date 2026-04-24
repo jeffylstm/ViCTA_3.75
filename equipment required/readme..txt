@@ -2,8 +2,10 @@ This readme file details the additional equipment required to run VCT experiment
 
 The equipment consists of:
 
-1. a stand used to position the cone board at 45 degrees and allow the user host arm to stimulate the mosquitoes from under the board.
-2. two acrylic sheets A3 in size with holes for the WHO cone and holes to mount the smartphone holder. 
+1. a stand: Used to position the cone board at 45 degrees and allow the user host arm to stimulate the mosquitoes from under the board.
+2. two acrylic sheets: A3 in size with holes for the WHO cone and holes to mount the smartphone holder. 
+3. other equipment (phone holder and angle adjuster): This can be found in the file 'other equipment link.txt'  The suggested links are to items on amazon uk. However alternative options should be available at many other online shopping stores.
+4. Smartphone. VCT experiments have been conducted with iphoneSE v2, however any smartphone capable of video recording should suffice. The required resolution can be less than 720p, framerate of only 30fps. The author recommends disabling software and hardware enhanced recordings such has HEVC, HDR, and smart AI features. A simple .mp4 or .mov file is preferred for analysis. If a video file is flipped or slightly rotated this can be corrected when running the ViCTA cone test analysis, although the rate of processing will be reduced.
 
 
 3D Printing files:
