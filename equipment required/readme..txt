@@ -1,3 +1,11 @@
+This readme file details the additional equipment required to run VCT experiments.
+
+The equipment consists of:
+
+1. a stand used to position the cone board at 45 degrees and allow the user host arm to stimulate the mosquitoes from under the board.
+2. two acrylic sheets A3 in size with holes for the WHO cone and holes to mount the smartphone holder. 
+
+
 3D Printing files:
 
 cone test stand - side panel.stl     (x2)
